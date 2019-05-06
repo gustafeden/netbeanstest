@@ -10,5 +10,8 @@ package server;
  * @author gusta
  */
 public class Main {
-    
+    int i;
+    public Main(){
+        i = 1;
+    }
 }
